@@ -11,7 +11,7 @@
 
 - 🤝 You can hire me as **Full Stack Dev / Front End Dev**
 
-- 👨‍💻 All of my projects are available at **[julesbousrez.fr](julesbousrez.fr)**
+- 👨‍💻 All of my projects are available at **[julesbousrez.fr](https://julesbousrez.fr)**
 
 - ✉️ How to contact me at **contact@julesbousrez.fr**
 
