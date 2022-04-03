@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at **[julesbousrez.fr](https://julesbousrez.fr)**
 
-- ✉️ How to contact me at **contact@julesbousrez.fr**
+- ✉️ You can contact me at **contact@julesbousrez.fr**
 
 - 🌱 I’m currently learning **VueJs and ReactJs**
 
