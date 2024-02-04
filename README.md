@@ -1,4 +1,4 @@
-<h1 align="center">Hello I'm Jules, a french student<br>in Full Stack Web & Mobile Develppement</h1>
+<h1 align="center">Hello I'm Jules, a french <br> Full Stack Web & Mobile Developer</h1>
 
 <p align="center"> <img width='150px' src="https://komarev.com/ghpvc/?username=julesbsz&label=Profile%20views&color=0e75b6&style=flat" alt="julesbsz" /> </p>
 
